@@ -1,6 +1,7 @@
 #!/bin/bash
-sleep 3
 #sms-bomber
+
+sleep 3
 echo "
 
 
